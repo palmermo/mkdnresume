@@ -3,7 +3,7 @@ L> [matthew.o.palm@gmail.com](mailto:matthew.o.palm@gmail.com) |
 
 # Matthew Palmer &ndash; Product Owner
 
-- Product owner with vast background in learning and current focus on LMS SAS applications in B2B environment
+Product Owner looking to leverage my broad experience in education with people centered tech based initiatives. Current focus on LMS SAS development in Agile/Scrum environment. 
 
 ## Education
 **Florida Atlantic University, Boca Raton, FL**  
