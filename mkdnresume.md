@@ -3,7 +3,7 @@
 
 # Matthew Palmer &ndash; Product Owner
 
-- Product owner with vast background in learning and current focus on LMS SAS applications in B2B environment
+Product owner with vast background in learning and current focus on LMS SAS applications in B2B environment
 
 ## Education
 **Wyncode Academy, Wynwood, FL**  
