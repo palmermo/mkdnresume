@@ -5,6 +5,19 @@
 
 - Product owner with vast background in learning and current focus on LMS SAS applications in B2B environment
 
+## Certifications
+- Certified Scrum Product Owner
+- Professional Scrum Master I
+
+## Skills
+- Product &ndash; Roadmap, Use-cases, Epics, User stories and Acceptance criteria
+- UX &ndash; Responsive Web Design, Information Architecture and Persona Classification
+- Graphic Editors &ndash; Adobe XD & Adobe Photoshop
+- Methodologies &ndash; Agile, Scrum and Kanban
+- Programming Languages &ndash; HTML, CSS, JavaScript, Ruby and SQL
+- Familiarity &ndash; React, Node.js, Grails,Express and Model View Controller
+- Graphic Editors &ndash; Adobe XD & Adobe Photoshop
+
 ## Education
 **Wyncode Academy, Wynwood, FL**  
 Cert. Web Development  
@@ -18,15 +31,4 @@ M.Ed. in Educational Leadership (K-12)
 BA. Social Sciences (Economics)   
 *May. 2011*  
 
-## Skills
-- Product &ndash; Roadmap, Use-cases, Epics, User stories and Acceptance criteria
-- UX &ndash; Responsive Web Design, Information Architecture and Persona Classification
-- Graphic Editors &ndash; Adobe XD & Adobe Photoshop
-- Methodologies &ndash; Agile, Scrum and Kanban
-- Programming Languages &ndash; HTML, CSS, JavaScript, Ruby and SQL
-- Familiarity &ndash; React, Node.js, Grails,Express and Model View Controller
-- Graphic Editors &ndash; Adobe XD & Adobe Photoshop
 
-## Certifications
-- Certified Scrum Product Owner
-- Professional Scrum Master I
